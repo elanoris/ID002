@@ -2,8 +2,6 @@ FMH606 Master Thesis 2022
 
 These are the Machine Learning algorithms created for the Master Thesis: Developing a data-driven model for online dust measurements in NPK prill stack
 
-There are two jupyter notebooks that contain two different aproaches: RNN & LSTM There is one python-file that contains both of these algorithms. Some parts of this code is "commented out" during testing and plot-creation. Feel free to un-comment if you want to see specific parts of it.
-
 There is one excel-file with sensor data regarding this task. As stated in the report, there is a substantial part of the data that is not included. This is firstly because there was signed a secrecy-agreement between the student and Yara and secondly because it is not needed for the specifics of the task. For furhter interesst regarding the full dataset, please contact Yara @ Porsgrunn for this.
 
 For any questions, please dont hesistate to contact me.
